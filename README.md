@@ -1,4 +1,4 @@
-Je fait de la programmation en Python ou en C# avec Unity et de temps en temps du HTML avec du CSS.
+Je fait de la programmation en Python, en C# avec Unity et de temps en temps du HTML avec du CSS.
 J'aime aussi faire de la musique et dessiner.
 
 <!---
